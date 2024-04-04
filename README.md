@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning - Machine Learning Algorithms & their use cases, Statistics, & EDA Approaches.
 - 👯 I’m looking to collaborate on - Projects which can use & utilize personalized data to solve real-life problems.
 - 🤔 I’m looking for help with - Deep Learning & Natural Language Processing
-- 📫 How to reach me - LinkedIn
+- 📫 How to reach me - https://www.linkedin.com/in/sonali-sahu-patel-a67321111/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  An introvert with high emotional quotient
 
