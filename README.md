@@ -1,14 +1,28 @@
-- 👋 Hi, I’m Sonali
-- 👀 I'm pursuing a Master's in Information Technology and Management with competence in analytical & problem-solving skills, seeking internship opportunities.
-- 🔭 I’m currently working on - Python, R, Machine Learning, Tableau, SQL, Power BI.
-- 🌱 I’m currently learning - Machine Learning Algorithms & their use cases, Statistics, & EDA Approaches.
-- 👯 I’m looking to collaborate on - Projects which can use & utilize personalized data to solve real-life problems.
-- 🤔 I’m looking for help with - PySpark and Snowflake
-- 📫 How to reach me - https://www.linkedin.com/in/sonali-sahu-patel-a67321111/
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact:  An introvert with high emotional quotient
+<h1 align="center">Hi 👋, I'm Sonali Sahu Patel</h1>
+<h3 align="center">A data enthusiastic and scholar.</h3>
 
-<!---
-SonaliSP12/SonaliSP12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently pursuing Masters in Information Technology and Management with specialization in Data Analytics and Data Management.
+
+- 🌱 I’m currently learning **PySpark and Machine Learning Algorithms & their use cases**
+
+- 👯 I’m looking to collaborate on projects implementing ETL pipeline and creating dashboards.
+
+- 🤝 I’m looking for help with **PySpark and Snowflake**
+
+- 💬 Ask me about **Python, SQL and Machine learning**
+
+- 📫 How to reach me **Sonalisahupatel@gmail.com**
+
+- ⚡ Fun fact **An introvert with high emotional quotient**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sonali-sahu-patel-a67321111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sonali-sahu-patel-a67321111/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalisp12&show_icons=true&locale=en&layout=compact" alt="sonalisp12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalisp12&" alt="sonalisp12" /></p>
