@@ -1,3 +1,4 @@
+![logo](https://github.com/SonaliSP12/SonaliSP12/blob/main/1669587681138.jpeg)
 <h1 align="center">Hi 👋, I'm Sonali Sahu Patel</h1>
 <h3 align="center">A data enthusiastic and scholar.</h3>
 
